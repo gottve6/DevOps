@@ -1,6 +1,9 @@
-actress
---------
-trisha
-deepa
-puspa
-maneesha
+
+Heros:
+-----
+Prabhas
+mahesh
+Pawan
+NTR
+Charan
+
