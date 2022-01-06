@@ -1,6 +1,0 @@
-Friuts:
------------
-apple
-guva
-pomogranate
-grape
