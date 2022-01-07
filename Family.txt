@@ -1,0 +1,6 @@
+// https://www.javaguides.net/2020/07/spring-boot-react-js-crud-example-tutorial-spring-boot-backend-part1.html
+
+
+// https://www.javaguides.net/2020/07/spring-boot-react-js-crud-example-tutorial-react-app-frontend-part2.html
+
+// https://www.youtube.com/watch?v=-sdOd5fcPz4&list=PLGRDMO4rOGcNsCZuMB8ydjDNNWLY69Rpu
